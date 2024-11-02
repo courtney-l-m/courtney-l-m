@@ -10,7 +10,7 @@ Outside of web design and development, I enjoy watching movies, watching TV, pla
 
 ![courtneys-pets](https://github.com/user-attachments/assets/ed221d38-bfb1-4aaa-8ef1-0829e9eabdda)
 
-This is all still a work in progress, but thank you for visiting!
+Thanks for reading!
 
 👋👋 Bye! 👋👋
 <!---
