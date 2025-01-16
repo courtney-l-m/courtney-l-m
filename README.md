@@ -2,9 +2,7 @@
 
 ## 👾 About Me
 
-I’m currently in my second year of studying web design and development. So far I have learned interesting knowledge about HTML, CSS, JavaScript, PHP and more! All pretty cool so far.
-
-I enjoy learning… well most of the time at least. I plan on continuing my knowledge in animation or cybersecurity (eventually) for now my focus is solely on the web!
+I’m currently in my second year of studying web design and development. My knowledge includes HTML, CSS, SCSS, JavaScript, PHP, MySQL and more!
 
 Outside of web design and development, I enjoy watching movies, watching TV, playing video games, reading, and creating. Otherwise, I enjoy spending time with my dog Bella and cats Dio and Cipher. (Dio is the orange one, and Cipher is the tortoiseshell)
 
